@@ -1,0 +1,22 @@
+{
+  "name": "Tribuna TV — Eventi & Canali 24/7",
+  "short_name": "Tribuna TV",
+  "description": "Guarda gli eventi in diretta e i canali 24/7 della tua playlist.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F0E",
+  "theme_color": "#0B0F0E",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
